@@ -1,3 +1,3 @@
 # enrich-cosmosdb
-conda install -c esri arcgis
+conda install -c esri arcgis \n
 pip install azure-cosmos
